@@ -1,0 +1,29 @@
+body{
+  margin: 0;
+  background:
+  url("../vs/foto/fon.jpg");
+  font-family:Tahoma;
+  line-height: 1.5;
+  font-size: 18px;
+}
+.cv {
+  width: 400px;
+  margin:30px auto;
+  padding:20px;
+  background-color:cornsilk;
+  box-shadow: 0 5px
+  10px  rgb(167, 158, 158);
+  border-radius:10px;
+}
+.cv-photo{
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  
+}
+.title {
+  font: 45px;
+  color: rgb(231, 58, 58);
+
+}
