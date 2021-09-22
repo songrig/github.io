@@ -1,29 +1,23 @@
 body{
-  margin: 0;
-  background:
-  url("./fon.jpg");
-  font-family:Tahoma;
-  line-height: 1.5;
-  font-size: 18px;
+    background-color: cadetblue;
+    font-family: 'Segoe UI';
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
 }
-.cv {
-  width: 400px;
-  margin:30px auto;
-  padding:20px;
-  background-color:cornsilk;
-  box-shadow: 0 5px
-  10px  rgb(167, 158, 158);
-  border-radius:10px;
+.create-new-todo {
+    max-width: 400px;
+    background-color: cornsilk;
+    padding: 30px;
+    display: block;
+    border: darkgreen;
 }
-.cv-photo{
-  display: block;
-  width: 200px;
-  height: 200px;
-  margin: 0 auto;
-  
+.container {
+    margin: 0 auto;
+    padding: 50px;
 }
-.title {
-  font: 45px;
-  color: rgb(231, 58, 58);
-
+h1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: darkgreen;
+    font-size: 30px;
 }
